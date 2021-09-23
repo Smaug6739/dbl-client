@@ -6,4 +6,7 @@ A exemple client of top.gg api. Using `@top-gg/sdk` module.
 
 ## Functions
 
-Émit an event when a user vote for a bot. 
+Get informations about à bot on top.gg website. 
+
+
+Know if top.gg is on week-end mode
